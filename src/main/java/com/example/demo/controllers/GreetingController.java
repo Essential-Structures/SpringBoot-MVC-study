@@ -30,3 +30,4 @@ public class GreetingController {
         return "result";//nume template html
     }
 }
+

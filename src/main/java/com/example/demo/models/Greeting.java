@@ -8,3 +8,4 @@ public class Greeting {
     private long ID;
     private String content;
 }
+
